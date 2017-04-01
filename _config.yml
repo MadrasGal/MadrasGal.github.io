@@ -1,0 +1,21 @@
+# Site settings
+title: Keep calm and code
+header-img: img/home-bg.png
+email: purnima0912@hotmail.com
+copyright_name: codequeen1110
+description: > # this means to ignore newlines until "baseurl:"
+  The title says it all
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: purnima0912
+github_username:  codequeen1110
+learn_profile: codequeen1110
+email_username: purnima0912@hotmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
