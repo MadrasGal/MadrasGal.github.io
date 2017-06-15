@@ -1,13 +1,11 @@
 ---
 layout: post
 title:  "Fighting psychological battles"
-date:   2017-06-15 14:06:34 +0000
+date:   2017-06-15 10:06:35 -0400
 ---
 
 
-So here I am feeling really good after writing my first blog post on how I wanted to do #somethingdifferent and #girlpower. I powered through the first few sections of the curriculum with a feeling of - I got this - and better still - I got this all wrapped up around my finger. Awesome! 
-
-And along comes self-doubt. 
+So here I am feeling really good after writing my first blog post on how I wanted to do #somethingdifferent and #girlpower. I powered through the first few sections of the curriculum with a feeling of - I got this - and better still - I got this all wrapped up around my finger. And along comes self-doubt. 
 
 Am I doing the right thing? Is it worth it? Should I be investing this time learning to code when I could be on my way to a more senior level at a Big Four firm? I've spent so many years developing my skill as a tax consultant, do I want to let it all go? What is it that I really want from life? Can I sustain this? Again, am I doing the right thing?
 
