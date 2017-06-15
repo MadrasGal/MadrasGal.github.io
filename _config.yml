@@ -1,10 +1,10 @@
 # Site settings
-title: Keep calm and code on
+title: Codequeen1110's Blog
 header-img: img/home-bg.png
 email: purnima0912@hotmail.com
 copyright_name: codequeen1110
 description: > # this means to ignore newlines until "baseurl:"
-  The title says it all
+  Blogging my journey as codequeen1110
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: codequeen1110
 github_username:  codequeen1110
