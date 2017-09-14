@@ -2,13 +2,13 @@
 title: My Blog.
 header-img: img/home-bg.png
 email: purnima0912@hotmail.com
-copyright_name: codequeen1110
+copyright_name: MadrasGal
 description: > # this means to ignore newlines until "baseurl:"
-  Blogging my journey as codequeen1110
+  Blogging my journey as MadrasGal
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: codequeen1110
-github_username:  codequeen1110
-learn_profile: codequeen1110
+twitter_username: MadrasGal
+github_username:  MadrasGal
+learn_profile: MadrasGal
 email_username: purnima0912@hotmail.com
 
 # Build settings
