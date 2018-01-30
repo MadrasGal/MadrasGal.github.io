@@ -20,6 +20,6 @@ This [magical gem](https://github.com/MadrasGal/purnima-cli-app) provides a list
 
 [News in more detail](https://drive.google.com/open?id=1VF_QIYEQzbVBY0UIS7fggCyI3HDABIwZ)
 
-I intend to work more on this gem to add new features - such as shopping (of Harry Potter memorabilia, of course! what did ya think, muggle!), and possibly a sorting hat too for the developer wizards and witches out there! Stay tuned! 
+I intend to work more on this gem to add new features - such as shopping (Weasley's Wizarding Wheezes anyone?), and possibly a sorting hat too for the developer wizards and witches out there! Stay tuned! 
 
 
