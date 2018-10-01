@@ -7,7 +7,7 @@ permalink:  javascript_essentials_-_understanding_scope_hoisting_and_context
 
 
 
-# What is ‘Scope’?
+##  What is ‘Scope’?
 
 Scope defines the availability of a declared variable or a method within a program. In other words, it helps us answer the question - is this particular variable or method still available to the program (even after the compiler has executed the line of code that declares the variable or method), or is there a need to redeclare/redefine the variable or method. 
 
@@ -19,7 +19,7 @@ In general --
 
 •	Variables created without a const, let, or var always have a ‘global scope’.
 
-# What is ‘Hoisting’?
+## What is ‘Hoisting’?
 
 Generally, we understand that globally scoped variables and functions should be defined at the top of the program, as the compiler reads the code from the top to the bottom. ‘Hoisting’ expands the scope of a variable or method that has been declared/defined later in the program and makes it available as if it were to have been declared or defined at the top of the program. 
 
@@ -43,7 +43,7 @@ We see that the variable ‘hello’ has been defined on line 4 of the program a
 
 Applying the concept of hoisting, when the JavaScript engine runs line 2 of the code, the variable ‘hello’ is available to the program as if it were to have been declared at the top of the program. Therefore, the program does not throw up an error. However, the value of ‘hello’ will not be hoisted and therefore, it returns ‘undefined’.
 
-# What is ‘Context’? 
+## What is ‘Context’? 
 
 Context is determined by how a function is invoked. JavaScript provides a keyword ‘this’ that refers to an object. However, the value of this object is to be determined ‘in context’ and can be quite confusing! 
 
