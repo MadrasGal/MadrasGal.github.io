@@ -10,7 +10,7 @@ permalink:  what_s_this_in_js
 This article explores the concept of ‘this’ in JS and its scope and usage. 
 
 
-## Concept of 'this' in JS  
+# Concept of 'this' in JS  
 
 Simply put, ‘this’ refers to an object in JS. The scope and value of this object depends on the context within which it is called. 
 
@@ -30,11 +30,11 @@ Inside of the speak function, ‘this’ refers to the dog object on which the f
 
 The context of ‘this’ changes when we assign dog.speak() to a new variable. For eg:
 
-`let newDogFunction = dog.speak``
+`let newDogFunction = dog.speak`
 
 When we assign the dog.speak function to a new variable, we removed its original context which referred to the dog object. Therefore, when we call newDogFunction, ‘this’ now refers to the global object or what is known as ‘Window’, and not the dog object. 
 
-## Arrow functions
+# Arrow functions
 
 Traditionally, functions in JavaScript were written as follows:
 
@@ -54,7 +54,7 @@ newFunction = () => {
 
 The new ES6 syntax for functions introduced changes in our earlier understanding of the scope and context of ‘this’. Unlike traditional functions, arrow functions do not have their own ‘this’ object. Instead, they take the context of ‘this’ from the scope of where these functions are defined.
 
-## Arrow functions and ‘this’
+# Arrow functions and ‘this’
 
 Going back to our newDogFunction, if we now defined it using arrow functions, we would be able to return the dog object. For example,
 
