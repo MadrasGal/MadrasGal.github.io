@@ -10,7 +10,7 @@ permalink:  what_s_this_in_js
 This article explores the concept of ‘this’ in JS and its scope and usage. 
 
 
-**Concept of 'this' in JS **
+**Concept of *this* in JS** 
 
 Simply put, ‘this’ refers to an object in JS. The scope and value of this object depends on the context within which it is called. 
 
