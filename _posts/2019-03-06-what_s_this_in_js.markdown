@@ -30,7 +30,9 @@ Inside of the speak function, ‘this’ refers to the dog object on which the f
 
 The context of ‘this’ changes when we assign dog.speak() to a new variable. For eg:
 
-`let newDogFunction = dog.speak`
+```
+let newDogFunction = dog.speak
+```
 
 When we assign the dog.speak function to a new variable, we removed its original context which referred to the dog object. Therefore, when we call newDogFunction, ‘this’ now refers to the global object or what is known as ‘Window’, and not the dog object. 
 
