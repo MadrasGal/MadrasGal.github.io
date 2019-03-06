@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "What’s ‘this’ in JS?"
+title:      "What is ‘this’ JS?"
 date:       2019-03-06 10:28:22 -0500
 permalink:  what_s_this_in_js
 ---
